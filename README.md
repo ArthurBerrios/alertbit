@@ -1,4 +1,4 @@
-# AlertBit
+# AlertaBit
 
 O **CryptoAlert** é uma aplicação Laravel de alta performance desenvolvida para monitorar o preço do Bitcoin em tempo real em diversas corretoras. O sistema permite que usuários configurem limites de preço (teto e piso) e recebam notificações automáticas por e-mail sempre que o mercado atingir esses patamares.
 
