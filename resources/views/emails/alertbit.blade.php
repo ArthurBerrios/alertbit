@@ -13,7 +13,7 @@
                         <td style="padding: 40px; text-align: center;">
                             <div style="font-size: 40px; margin-bottom: 20px;">🔔</div>
                             
-                            <h2 style="margin: 0 0 15px 0; color: #f59e0b; font-size: 22px;">Aviso do Sistema</h2>
+                            <h2 style="margin: 0 0 15px 0; color: #f59e0b; font-size: 22px;">Atenção</h2>
                             
                             <p style="margin: 0; color: #cbd5e1; font-size: 16px; line-height: 1.6;">
                                 {{ $text }}

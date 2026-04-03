@@ -18,7 +18,7 @@ class BitcoinController extends Controller
     public function index()
     {
         $bits = $this->criptoService->getResponseApiBitcoin();
-        $notifications = Auth::user()->notifications;
+        $notifications = Auth::user()->notifications->sortByDesc('created_at');
 
         return view('bitcoin', compact('bits', 'notifications'));
     }
